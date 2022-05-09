@@ -1,5 +1,6 @@
 # The "Olivia BotRigo" Experience
 Final Project repository, COMS3930
+https://www.notion.so/Final-Project-The-Olivia-BotRigo-Experience-0b2b6299f1774d91a22bca7ae5c40a69
 
 # Introduction: Final Project 
 
