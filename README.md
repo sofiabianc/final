@@ -93,4 +93,5 @@ two 2’’ Door hinges
 4. Click anywhere on the page. You will be prompted to select the port through which your serial messages will be sent. Be sure to select the correct one. 
 
 5. Use the potentiometer or the mouse to manipulate Olivia BotRigo!
-6. 
+
+6. Contemplate the power dynamics at play. Ponder themes of autonomy, manipulation, and the objectification of women and female artists. 
